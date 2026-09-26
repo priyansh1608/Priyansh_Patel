@@ -1,0 +1,14 @@
+Answer
+
+Weak Learner:
+A weak learner is a model that performs only slightly better than random guessing. For example, a simple 
+decision stump that checks one feature to detect whether an Instagram post may be popular.
+
+Strong Learner:
+A strong learner is a model that combines multiple weak learners to produce a much more accurate prediction. 
+For example, a boosting model could combine many small decision trees to detect suspicious transactions in a 
+Paytm-like payment system.
+
+Main Difference:
+A weak learner has limited predictive power, while a strong learner provides much better predictions, often 
+by combining several weak learners.

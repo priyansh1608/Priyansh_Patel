@@ -1,0 +1,8 @@
+Boosting can be used in payment applications such as Paytm for fraud detection.
+
+A boosting model can combine many weak decision trees to identify unusual transaction patterns.
+
+It can learn from features such as transaction amount, location, time, device information and transaction frequency.
+
+By combining multiple weak learners, boosting can improve the accuracy of detecting potentially fraudulent 
+transactions while reducing incorrect predictions.

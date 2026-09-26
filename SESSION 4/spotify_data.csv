@@ -1,0 +1,9 @@
+song,danceability,energy,tempo,popularity
+Song A,0.80,0.90,120,85
+Song B,0.60,0.70,110,70
+Song C,0.75,0.85,125,82
+Song D,0.40,0.50,90,45
+Song E,0.90,0.95,130,92
+Song F,0.55,0.60,100,60
+Song G,0.70,0.80,115,76
+Song H,0.30,0.40,80,35

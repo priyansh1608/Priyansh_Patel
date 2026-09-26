@@ -1,0 +1,15 @@
+Q - 4 : Draw or find a graph online that visually explains the bias–variance tradeoff, and write a short note
+       describing how this tradeoff would affect predictions in a Zomato restaurant rating predictor app.
+
+
+
+Answer : 
+
+The bias–variance tradeoff explains the balance between a model being too simple and too complex. 
+A simple model can have high bias and underfit the data, while a complex model can have high variance 
+and overfit the training data.
+
+In a Zomato restaurant rating predictor, high bias may cause the model to give similar and inaccurate 
+ratings to different restaurants. High variance may cause the model to memorize the training restaurants 
+and give poor predictions for new restaurants. Therefore, a balanced model should be selected so that it 
+gives accurate predictions on unseen restaurant data.

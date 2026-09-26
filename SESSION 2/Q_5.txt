@@ -1,0 +1,13 @@
+Q - 5 : Give a real example (outside of healthcare/hospital) of overfitting from any app you use 
+        (e.g., Instagram, Flipkart, Swiggy), and explain in 2-3 lines why it might happen in that scenario.
+
+
+
+Answer : 
+
+Example: Instagram Feed Recommendation
+
+Instagram's recommendation system may overfit if it learns too strongly from a user's recent likes, 
+clicks, or interactions. For example, if a user watches many cricket videos for a short period, an 
+overfitted model might keep recommending mostly cricket content and fail to recognize the user's other 
+interests. This can happen when the model becomes too sensitive to limited or temporary user activity.

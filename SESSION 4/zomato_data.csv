@@ -1,0 +1,11 @@
+restaurant,online_order,book_table,votes,rating,price_range,average_cost_for_two
+Restaurant A,1,1,500,4.5,3,1200
+Restaurant B,1,0,250,4.0,2,600
+Restaurant C,0,1,800,4.6,4,1800
+Restaurant D,1,0,150,3.8,2,500
+Restaurant E,1,1,1000,4.7,4,2000
+Restaurant F,0,0,100,3.5,1,300
+Restaurant G,1,1,650,4.3,3,1100
+Restaurant H,0,1,400,4.1,3,900
+Restaurant I,1,0,300,3.9,2,550
+Restaurant J,1,1,900,4.8,4,2200

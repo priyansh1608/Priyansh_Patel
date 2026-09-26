@@ -1,0 +1,92 @@
+Q - 1 : List three apps you use daily (such as Zomato, Instagram, or Flipkart) and describe one
+        feature in each app that likely uses machine learning. For each, state whether it is an 
+        example of supervised, unsupervised, or reinforcement learning.
+
+
+Answer : 
+
+| App           | ML Feature                                                                          | Type of Learning           |
+| ------------- | ----------------------------------------------------------------------------------- | -------------------------- |
+| **Instagram** | Recommends posts and Reels based on what I like, watch, and interact with.          | **Reinforcement Learning** |
+| **Zomato**    | Predicts delivery time based on previous orders, distance, traffic, and other data. | **Supervised Learning**    |
+| **Flipkart**  | Recommends products based on my previous searches, clicks, and purchases.           | **Unsupervised Learning**  |
+
+
+=======================================================================================================
+
+Q - 2 : Given the following scenarios, classify each as supervised, unsupervised, or reinforcement learning:
+        1) Netflix recommending movies based on your watch history, 
+        2) Spotify grouping similar songs into playlists, 
+        3) A self-driving car learning to park by trial and error. Write your answers with a one-line 
+           explanation for each choice.
+
+
+Answer : 
+
+
+Netflix recommending movies based on your watch history — Unsupervised Learning
+It finds patterns in your viewing behavior and recommends movies that are similar to your interests.
+
+Spotify grouping similar songs into playlists — Unsupervised Learning
+It groups songs with similar characteristics without requiring predefined labels.
+
+A self-driving car learning to park by trial and error — Reinforcement Learning
+The car learns by taking actions and receiving rewards or penalties based on the result.
+
+
+===========================================================================================================
+
+Q - 3 : Draw a simple diagram (hand-drawn or digital) showing the basic ML workflow: Data → Preprocessing 
+        → Modeling → Evaluation → Deployment. Under each step, write a one-line example of what happens at 
+        that stage for a food delivery app like Swiggy.
+
+
+Answer : 
+
+
+┌──────────┐
+│   Data   │
+└────┬─────┘
+     ↓
+┌───────────────┐
+│ Preprocessing │
+└──────┬────────┘
+       ↓
+┌───────────┐
+│ Modeling  │
+└─────┬─────┘
+      ↓
+┌────────────┐
+│ Evaluation │
+└─────┬──────┘
+      ↓
+┌────────────┐
+│ Deployment │
+└────────────┘
+
+
+Examples for each stage:
+
+Data:             Collect previous Swiggy orders, delivery times, distances, and customer information.
+Preprocessing:    Clean missing data and convert the collected information into a suitable format.
+Modeling:         Train an ML model to predict delivery time.
+Evaluation:       Check how accurately the model predicts actual delivery times.
+Deployment:       Use the trained model in the Swiggy app to provide estimated delivery times.
+
+===========================================================================================================
+
+Q - 4 : Imagine you are building a spam filter for WhatsApp messages. Write a short paragraph explaining how
+        traditional programming would approach this problem versus how machine learning would approach it.
+        <br><br><em><strong>Hint:</strong> Focus on rules vs learning from data.</em>
+
+
+
+Answer : 
+
+
+
+In traditional programming, a spam filter would use manually created rules, such as blocking messages 
+containing certain words, links, or suspicious patterns. These rules must be written and updated by the
+programmer. In machine learning, the spam filter is trained using a dataset of messages labeled as spam
+or not spam. The ML model learns patterns from the data and uses those patterns to classify new WhatsApp 
+messages automatically.
