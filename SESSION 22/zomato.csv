@@ -1,0 +1,21 @@
+name,location,cuisine,cost,rating
+Restaurant A,Ahmedabad,North Indian,500,4.5
+Restaurant B,Ahmedabad,Chinese,300,3.8
+Restaurant C,Surat,Gujarati,250,4.2
+Restaurant D,Vadodara,Italian,700,3.5
+Restaurant E,Ahmedabad,South Indian,400,4.1
+Restaurant F,Surat,Chinese,350,3.2
+Restaurant G,Rajkot,Punjabi,450,4.6
+Restaurant H,Ahmedabad,Gujarati,200,3.9
+Restaurant I,Vadodara,North Indian,600,4.3
+Restaurant J,Surat,Italian,800,3.7
+Restaurant K,Rajkot,Chinese,300,4.4
+Restaurant L,Ahmedabad,Punjabi,550,3.6
+Restaurant M,Surat,Gujarati,250,4.7
+Restaurant N,Vadodara,South Indian,400,3.4
+Restaurant O,Rajkot,North Indian,500,4.2
+Restaurant P,Ahmedabad,Italian,900,3.1
+Restaurant Q,Surat,Punjabi,450,4.5
+Restaurant R,Vadodara,Chinese,350,3.9
+Restaurant S,Rajkot,Gujarati,280,4.1
+Restaurant T,Ahmedabad,North Indian,650,3.3
